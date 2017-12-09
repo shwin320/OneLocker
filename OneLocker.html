@@ -1,0 +1,170 @@
+<html>
+<head>
+<title>OneLocker</title>
+<link rel="shortcut icon" href="https://lh3.googleusercontent.com/I2zwaJY8YwG8eIq3_UX3jWJpO3edS6vQOzKjE0EKdUgOOLYUyIXyd3nnI-HvQy0sennV8VEDrVfoK2ObAt2q1f_FNXhV1_T0b5fAFjDo9-4N-KPcn6CqFIkdlv0WNLovRMyqaVDaKf2KJz8ClmleLVWwotl8FVDuZbFW54tJPjbn00s63KaBJ2vSpyA7VQMvAEHzJEwZjzFqix7RRfoMFDX74xxJFPpj5lYu1Cd-cpWAK8AZ6TmVO4vrhhcsoWVXX_-pxHWLIogI2_Iqzp6109gmkGQf2dQrhNeeHlLo0YO8mmmQhluokWTbNMruJ1nGJgSWBW00wY4IWCyVpYR0XiAMV10TiFjesgkGPILeahtsEZuMeQ1Lw3HNiPY14MqBZ0TyUAjn00RLc8R1q-7TzAG-m1QnF-fdqZlqV8vq7JR5eJkXFOli_wecStoRAU7TRJPBliujvWLyooz-zjplkIfj6H9hgbwiq5yU1_SdMwTpNPR3yx-eKDfMxwKjgFg6BnVXZ-19-gWBvVP3pbKqa_bQ9icjUFO2daFeGxx8Gko5zt3wmFF2Vo4_K26xQliBUSmHwB2ZxQ9_cvvjTy4fQZBSTesfVtVR12UeWz87NDDDqtJ0OWvJEOqxKS4FKcufCyMyt5FUtpJCCHBOilJTq--Ew-SQIhr4Fdw=s16-no" type="image/x-icon">
+<style>
+p{
+	font-family: Arial;
+	font-size: 100%;
+}
+a{
+	text-decoration: none;
+	color: rgb(0, 195, 255);
+}
+.link:hover{
+	opacity: 0.5;
+	text-decoration: underline;
+}
+h1{
+	color: rgb(0, 153, 255);
+	font-family: Arial;
+	text-align: center;
+	font-size: 100px;
+	margin-top: -10px;
+}
+h2{
+	color: rgb(0, 153, 255);
+	font-family: Arial;
+	text-align: center;
+	font-size: 45px;
+	margin-top: -90px;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
+#submit{
+	background-color: blue;
+	border: none;
+	color: white;
+	padding: 10px 27px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.text{
+	padding: 5px 10px;
+}
+#try_again{
+	text-align: Center;
+	font-size: 50px;
+	padding-top: 0px;
+	margin-top: -70px;
+	display: block;
+	margin: 0 auto;
+	background-color: white;
+	border: 2px solid #ffffff;
+	font-family: Arial;
+}
+#try_again2{
+	text-align: Center;
+	font-size: 50px;
+	padding-top: 0px;
+	margin-top: -70px;
+	display: block;
+	margin: 0 auto;
+	background-color: white;
+	border: 2px solid #ffffff;
+	font-family: Arial;
+}
+.hoverer:hover{
+opacity: 0.5;
+}
+div {
+    text-align: center
+}
+
+div img {
+    display: inline-block;	
+}
+
+div:after {
+    content: '';
+    display: inline-block;
+    width: 100%;
+}
+#h{
+	margin-right: 50px;
+}
+#s{
+	margin-left: 50px;
+}
+#select{
+	font-family: Arial;
+}
+#logout{
+	background-color: white;
+	border: 2px solid #ffffff;
+	font-family: Arial;
+	font-size: 100%;
+}
+h2{
+	font-family: Arial;
+}
+</style>
+</head>
+<body id="body">
+<script>
+var login_protocol = function(){
+	var uname = document.getElementById("u");
+	var username = uname.value;
+	var reload = function(){
+		window.location.reload();
+	};
+	if (username === "student1"){
+		var pword = document.getElementById("p");
+		var password = pword.value;
+		if (password === "athomas5149"){
+			body.innerHTML = '<p>Welcome, Ashwin Thomas.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
+			<p style="margin-top: -15px">Questions? Contact <a href="mailto:shwin320@gmail.com" target="_blank" class="link">shwin320@gmail.com</a>.</p>\
+			<br><br>\
+			<h1>OneLocker</h1>\
+			<h2>School, digitalized</h2>\
+			<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg">\
+			<br><br><br><br><br>\
+			<div>\
+			<a href="#home">\
+				<img id="h" class="hoverer" src="https://lh3.googleusercontent.com/tQhghxl_AgWihWME3QkUHK5gbSs-LzuYcNNTF72U_etYQ7QJAv2wVLsIOpDPNDeyrnOTNvl6U_PHVh-fNL4jERbDFDGDK-iEsukOVFtZpWYCdInCX3VEIG7H38ou71gMfoGHtS5hlY5s8KkXb9Up7Z77YDbV9DNJKpclILodhxdeXuQyoKw2wE0VjTW3_mS0Zdx4HZdDZYgi9ThEcOVRmz63Jxf9h-skCB12KZeCnVjWH_Bh_3czPpAy6T-gwcBWMHykUOtkg2E_COqFbhKrAq7x1b6MZFWUqqpI6kvpETigLVYpcpdJ3qHHGCgitnVJnX6-abe9F0L-ajBtvogGLzfUTmr_xaJcM57EoZ5f5jQ8vRtXQFfa2elb3ujKFgtsyDixEOT_iKThCkpb4c3hyIF3GSVE5rBpPqXaWhSHwVcECMi5LAeO6AjwSjz416gitgpaOlgRek7b0AM0pC7Y_lgaWT53nmsxrqvKBRLxRZXLOg0nq-XZPDktTqGXPHzvGqXyhCGpj-IpyP6UciftVjz00j0RMAihl1-UrYPrW7gud1n7THwjM_HJlRjxDtfc5YdL8c_lJrkZiuQ5QWp85f7j9_oSlzow9ao7gk5vKHJe0Z04v6Cty6H2Ijl9-kZi3c5EhNijZHKqoQg083WMEi0-2l-03MfH4ew=w700-h662-no" width=200 height=189.25>\
+			</a>\
+			<a href="#school">\
+				<img id="s" class="hoverer" src="http://clipartix.com/wp-content/uploads/2017/07/School-clip-art-free-clipart-images.jpg" width=135.875 height=200>\
+			</a>\
+			</div>\
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
+			<h2 id="home">Home</h2>\
+			<p><a href="#logout">Return to Home</a></p>\
+			';
+		}
+		else{
+			alert("You have entered an invalid login");
+			body.innerHTML = '<h1>Invalid Login!</h1>\
+			<buttton onclick="reload();" class="link" id="try_again"><a href="">Reattempt Login?</a></button>';
+		}
+	}
+	else{
+		alert("You have entered an invalid login");
+		body.innerHTML = '<h1>Invalid Login!</h1>\
+		<button onclick="reload();" class="link" id="try_again2"><a href="" id="select">Reattempt Login?</a></button>';
+	}
+};
+</script>
+<p>Don't have an account, yet? <a href="https://goo.gl/forms/BKejH4liidhVoJaC3" target="_blank" class="link">Sign-up today!</a></p>
+<p style="margin-top: -15px">Questions? Contact <a href="mailto:shwin320@gmail.com" target="_blank" class="link">shwin320@gmail.com</a>.</p>
+<br><br>
+<h1>OneLocker</h1>
+<h2>School, digitalized</h2>
+<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg">
+<br><br><br>
+<div style="text-align:center;">
+<form action="javascript:;" onsubmit="login_protocol()">
+<input type="text" id="u" class="text" placeholder="Username">
+<br>
+<input type="password" id="p" class="text" placeholder="Password">
+<br>
+<input type="submit" value="Login" id="submit">
+</form>
+</div>
+</body>
+</html>
