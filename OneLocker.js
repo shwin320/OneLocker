@@ -23,8 +23,8 @@ var login_protocol = function(){
 				<img id="s" class="hoverer" src="http://clipartix.com/wp-content/uploads/2017/07/School-clip-art-free-clipart-images.jpg" width=135.875 height=200>\
 			</a>\
 			</div>\
-			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
-			<h2 id="home">Home</h2>\
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
+			<h3 id="home">Home</h3>\
 			<p><a href="#logout">Return to Home</a></p>\
 			';
 		}
