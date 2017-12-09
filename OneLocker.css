@@ -94,5 +94,7 @@ div:after {
 	font-size: 100%;
 }
 h3{
+	text-align: Left;
 	font-family: Arial;
+	color: black;
 }
