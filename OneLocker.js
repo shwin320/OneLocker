@@ -25,7 +25,7 @@ var login_protocol = function(){
 			</div>\
 			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
 			<h3 id="home">Home</h3>\
-			<p><a href="#logout">Return to Home</a></p>\
+			<p class="link"><a href="#logout" class="link">Return to Home</a></p>\
 			';
 		}
 		else{
