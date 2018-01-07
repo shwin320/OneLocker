@@ -89,6 +89,7 @@ var login_protocol = function(){
 			<p><a href="#lmtsd">4. LMTSD Online</a></p>\
 			<p><a href="#resources">5. Online Resources</a></p>\
 			<p><a href="#library">6. Libraries</a></p>\
+			<p><a href="#agenda">7. Agenda</a></p>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
