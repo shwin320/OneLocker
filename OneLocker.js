@@ -61,7 +61,7 @@ var login_protocol = function(){
 			<h4 id="media">Media:</h4>\
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
-			<a href="https://www.amazon.com/b/ref=atv_hm_hom_2_slct?_encoding=UTF8&filterId=OFFER_FILTER%3DYOURS_TO_WATCH&node=2676882011" target="_blank"><img src="https://pbs.twimg.com/profile_images/753882140333469696/Aw06SepL.jpg" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://www.amazon.com/b/ref=atv_hm_hom_2_slct?_encoding=UTF8&filterId=OFFER_FILTER%3DYOURS_TO_WATCH&node=2676882011" target="_blank"><img src="http://orkutr.com/wp-content/uploads/2013/05/Amazon-Instant-Video.jpeg" width=120 height=120 style="margin-top: 40px;"></a>\
 			<a href="http://www.nick.com/" target="_blank"><img src="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png?quality=0.75" width=120 height=120></a>\
 			<a href="http://pbskids.org/video/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1024px-PBS_Kids_Logo.svg.png" width=120 height=120></a>\
 			<a href="http://tv.verizon.com/" target="_blank"><img src="https://lh3.ggpht.com/G9J8zAFfzRSHwlIVgmz2E1cqQN0OETriVsSuSfg9lmBeY-xNI_vrfDTc3zxykEBgAvQ=w300" width=120 height=120></a>\
