@@ -32,7 +32,6 @@ var login_protocol = function(){
 			<p><a href="#google_home">1. Google</a></p>\
 			<p><a href="#computers">2. Programing and Devolopment</a></p>\
 			<p><a href="#media">3. Media</a></p>\
-			<p><a href="#news">4. News</a></p>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -69,15 +68,6 @@ var login_protocol = function(){
 			<a href="https://tunein.com/user/shwin320/" target="_blank"><img src="http://is2.mzstatic.com/image/thumb/Purple118/v4/10/c4/69/10c4699e-b239-ada2-1b96-1dc24ab6e0b8/source/175x175bb.jpg" width=120 height=120></a>\
 			</div>\
 			</div>\
-			<div class="linkmenu">\
-			<h4 id="news">News:</h3>\
-			<p><a href="#logout">Go to top</a></p>\
-			<div class="links">\
-			<a href="http://www.cnn.com/cnn10" target="_blank"><img src="http://i.cdn.turner.com/cnn/services/podcasting/cnn10/images/cnn10graphics.jpg" width=120 height=120 style="margin-top: 40px;"></a>\
-			<a href="http://www.bcctnie.com/" target="_blank"><img src="http://is5.mzstatic.com/image/thumb/Purple118/v4/51/2f/f7/512ff7ac-59d1-f4e1-c85e-3a4b909fc03f/source/175x175bb.jpg" width=120 height=120></a>\
-			<a href="http://www.6abc.com/" target="_blank"><img src="https://lh3.googleusercontent.com/8kj3-t3zEuUkY7Jpj-gOT-QUYfbG59s2F4WrjQ1z3amqzVsMQ5QT_G0ygPimhY3BD8hxgFX2kNOIPyh2fH4xXA397hL7SYFnx6emqM4NZXCvpVhi1yPPDBC0_ALKJd0LBEeJWOb0bIfDEZOwED98j-sGh4q5KZFHAH4uQjvnVps7abzw-C2lDWo36_nb0V2JLDjL8YSbw10kcHPe-JGiXw43aC5fOJ7nALVxwzDwP_SJMxSXaTrbuxdLxafcGQ7DYw1wn6HDPKxE5Zv1KiuQuaGhzcLSlkhuNKR8FXoUKMKXe8QVqKB69dQ-flj6Z5ozJl12htJigrhWTH6wdnDIdEIqCCBSZQHopEkOnj6A97NP4eAOgO6wUnBfN358Qj96-997941JYwGi5CE3_f9kSBUVisU53xJKT9RIHy9gCe9qjWe8ngFQZmqmyt9BTiydhjJP-U3aA82BPinjOOuqfHpJtog9mfU2vanxQutji73U9NZ5sdy_Qs21Ip2gaOuypQQhbJQTDHR4KgWyDII1fECGOuyYqBe0BAGaII9jhZJlYeHOeQ44YOgWnGdeI_o8T0HqIpGkbpn5LJEmNR_oQSYBjufPvL6uG5OMSrk9qxMlS9r8GFRA5ZKc2faaEsWHo70zcF1DzPPy4LNDvXf2zMjaNQjlGb92=s600-no" width=120 height=120></a>\
-			</div>\
-			</div>\
 			<br><br><br><br><br><br><br><br><br>\
 			<div id="school_content" style="text-align: Left;">\
 			<h3 style="margin-bottom: -25px;">School:</h3>\
@@ -88,8 +78,9 @@ var login_protocol = function(){
 			<p><a href="#textbooks">3. Textbooks</a></p>\
 			<p><a href="#lmtsd">4. LMTSD Online</a></p>\
 			<p><a href="#resources">5. Online Resources</a></p>\
-			<p><a href="#library">6. Libraries</a></p>\
-			<p><a href="#agenda">7. Agenda</a></p>\
+			<p><a href="#news">6. Current Events</a></p>\
+			<p><a href="#library">7. Libraries</a></p>\
+			<p><a href="#agenda">8. Agenda</a></p>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -138,6 +129,16 @@ var login_protocol = function(){
 			<a href="http://lmrhomeaccess.spihost.com/" target="_blank"><img src="https://lh4.googleusercontent.com/Y3McdfZ-af-_U1-APmbksCOhd0jlNN47tpa3aa254ZR6I5rQPPXN5cefSDEIrxTYjr3cpTNoED8CExstb3JZiILLW2NjEZsnySMLBaa2HsihhjDFJzWb5GVry-XTUbxqvicYSMIgrIFCy6vUKQQP6zKtEUALD2gWbBkMKpqo6Gi5wMbrQBt38UY_1mg2VW8g0O8OqfPIo4nksKbymaoy1kqT6XNUknkAdWDpCwR1xUBJE_SigbS4wMDpsB-ez0goDOFZ3BFz9Bm8Ztx9FqUmSPpJqRO8-WvRDe8squW3gFcDnIgCWYrLoA-V7X1UkN9ZdIYEljsO37EaG6-dBO_QDHaISKkmMkNbjghSPPAAV38qOOhFKsW0lx1397cBM0n3JX84CouAXJ0w4zECpWQhRgyZos1f52mpTQComtXdsKSVKWMWBpMRuveUXNx0tCmBLNSX91J55EEnIi2Zp-sLAq-GO3-H7CDyUO57eaAs1Iwi7fob5EWOlH5bg2v15-9CypvOyWCQq_ZcoZ3xd5snYeAPQXWsVch4euO-3aKid9yLmt5ulxqd5riksgSBatoLVdVELmwaLimPvYhasYUsg0KtCuYs-Hyptm6fqmYuknqBgWkyUFEnGu_BJCHSd4s5v32P8AVXyeQXLxTqW81a0thXJzUbKXslNh8=s182-no" width=120 height=120></a>\
 			<a href="https://lmtsd.nutrislice.com/menu/murray-avenue/lunch/" target="_blank"><img src="https://asdb.az.gov/asb/wp-content/uploads/sites/5/2016/05/lunch-menu.png" width=121 height=120></a>\
 			<a href="https://www.lmtsd.org/Page/3730" target="_blank"><img src="https://lh4.ggpht.com/fOfS6RZh2fHBrmoFrMtXn1LoJCq451Lu-xedAk3rUZlgnW5FDxRNbTHNOIOAf7pVag=w300" width=120 height=120></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h4 id="news">Current Events:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="http://www.cnn.com/cnn10" target="_blank"><img src="https://lh3.googleusercontent.com/GN8dnvA7fP1tutRCR11c1D43CEqATcURY01ytkAlpHKP0Txg3xGNZRRaFbQJhR82Oyd9YtQeRyeikl7Has7ZuzMnK-JqWBVC2eb5os4TiKLI5XJolzXiQ5Nejvm0tCesU4B4VMk2-IK6lWfxb6uGERcoiQ7Tt8zgv2xAMRtBQSCiyAAMjA602JLW5x_O7thGitmWVsc5oIgTQ2p66zkWSLdaxLoyJU5JWO6ioaLcpfgMt9cHJf8QQut8g46nKfmkw7OYjkMN7J08JHUhc0f5W32mTfS5Odw4f-ifT0Plf5oJnKaQFy0YXV099yeS2wyrQ6LvsFnHM749vvuH7-SttI47uDGxkVCJ9d8xdjEagylPsJp1dkCRHjCUQhAHstcbmzbzz9wi9JpmGXmayrUXzsBHyTjvKRNthxOOJLpqY7IKBEiDs3mfBpea5PTJNs24vWFUWSmbbGDYdcqfw2O7tAtam1nf9bA42hh8s29KSj9PejAXFzvcqZ_I1pNeTf36dYjzpNnRHwt00CLYh4kUrB104KEvENugCR-gWxFgvY8Xj_ieMTo-esWMD6CNeT6Mw1tmBvEuHg2lCSwkKu8Ru7iSHyy6etlgoqU25bbCCuDAcMdf-d_mdUTO40oDlsU_5otV-YD_fLqySUaGbN4z9MYPNUJLA5ZZ=s745-no" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="http://www.bcctnie.com/" target="_blank"><img src="http://is5.mzstatic.com/image/thumb/Purple118/v4/51/2f/f7/512ff7ac-59d1-f4e1-c85e-3a4b909fc03f/source/175x175bb.jpg" width=120 height=120></a>\
+			<a href="http://www.6abc.com/" target="_blank"><img src="https://lh3.googleusercontent.com/8kj3-t3zEuUkY7Jpj-gOT-QUYfbG59s2F4WrjQ1z3amqzVsMQ5QT_G0ygPimhY3BD8hxgFX2kNOIPyh2fH4xXA397hL7SYFnx6emqM4NZXCvpVhi1yPPDBC0_ALKJd0LBEeJWOb0bIfDEZOwED98j-sGh4q5KZFHAH4uQjvnVps7abzw-C2lDWo36_nb0V2JLDjL8YSbw10kcHPe-JGiXw43aC5fOJ7nALVxwzDwP_SJMxSXaTrbuxdLxafcGQ7DYw1wn6HDPKxE5Zv1KiuQuaGhzcLSlkhuNKR8FXoUKMKXe8QVqKB69dQ-flj6Z5ozJl12htJigrhWTH6wdnDIdEIqCCBSZQHopEkOnj6A97NP4eAOgO6wUnBfN358Qj96-997941JYwGi5CE3_f9kSBUVisU53xJKT9RIHy9gCe9qjWe8ngFQZmqmyt9BTiydhjJP-U3aA82BPinjOOuqfHpJtog9mfU2vanxQutji73U9NZ5sdy_Qs21Ip2gaOuypQQhbJQTDHR4KgWyDII1fECGOuyYqBe0BAGaII9jhZJlYeHOeQ44YOgWnGdeI_o8T0HqIpGkbpn5LJEmNR_oQSYBjufPvL6uG5OMSrk9qxMlS9r8GFRA5ZKc2faaEsWHo70zcF1DzPPy4LNDvXf2zMjaNQjlGb92=s600-no" width=120 height=120></a>\
+			<a href="https://www.stockpile.com/dashboard" target"_blank"><img src="https://pbs.twimg.com/profile_images/862445396601262080/_DMrm6Uu_400x400.jpg" width=120 height=120></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
