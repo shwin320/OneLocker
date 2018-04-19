@@ -145,7 +145,7 @@ var login_protocol = function(){
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
 			<a href="http://mclinc.polarislibrary.com/polaris/default.aspx" target="_blank"><img src="http://mclinc.polarislibrary.com/images/header_logo_modern.gif" style="margin-top: 40px;"></a>\
-			<a href="https://montcolibs.overdrive.com/mclinc-huntingdonvalley/content" target="_blank"><img src="https://billericalibrary.org/wp-content/uploads/2017/03/OverDrive_Logo.png" width=431.6 height=112.6 style="margin-top: 40px;"></a>\
+			<a href="https://montcolibs.overdrive.com/mclinc-huntingdonvalley/content" target="_blank"><img src="https://global.rakuten.com/corp/about/assets/img/company/logo_overdrive_02.svg" width=318 height=83 style="margin-top: 40px;"></a>\
 			<a href="http://library.lmtsd.org/cataloging/servlet/presentadvancedsearchredirectorform.do?l2m=Library%20Search&tm=TopLevelCatalog" target="_blank"><img src="http://nccscurriculum.org/wp-content/uploads/2017/01/CG61018LOGO.jpg" width=350 height=100.5 style="margin-top: 40px;"></a>\
 			</div>\
 			</div>\
