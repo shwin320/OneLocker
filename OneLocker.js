@@ -132,7 +132,7 @@ var login_protocol = function(){
 			</div>\
 			</div>\
 			<div class="linkmenu">\
-			<h4 id="news">Current Events:</h3>\
+			<h4 id="news">Current Events:</h4>\
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
 			<a href="http://www.cnn.com/cnn10" target="_blank"><img src="https://lh3.googleusercontent.com/GN8dnvA7fP1tutRCR11c1D43CEqATcURY01ytkAlpHKP0Txg3xGNZRRaFbQJhR82Oyd9YtQeRyeikl7Has7ZuzMnK-JqWBVC2eb5os4TiKLI5XJolzXiQ5Nejvm0tCesU4B4VMk2-IK6lWfxb6uGERcoiQ7Tt8zgv2xAMRtBQSCiyAAMjA602JLW5x_O7thGitmWVsc5oIgTQ2p66zkWSLdaxLoyJU5JWO6ioaLcpfgMt9cHJf8QQut8g46nKfmkw7OYjkMN7J08JHUhc0f5W32mTfS5Odw4f-ifT0Plf5oJnKaQFy0YXV099yeS2wyrQ6LvsFnHM749vvuH7-SttI47uDGxkVCJ9d8xdjEagylPsJp1dkCRHjCUQhAHstcbmzbzz9wi9JpmGXmayrUXzsBHyTjvKRNthxOOJLpqY7IKBEiDs3mfBpea5PTJNs24vWFUWSmbbGDYdcqfw2O7tAtam1nf9bA42hh8s29KSj9PejAXFzvcqZ_I1pNeTf36dYjzpNnRHwt00CLYh4kUrB104KEvENugCR-gWxFgvY8Xj_ieMTo-esWMD6CNeT6Mw1tmBvEuHg2lCSwkKu8Ru7iSHyy6etlgoqU25bbCCuDAcMdf-d_mdUTO40oDlsU_5otV-YD_fLqySUaGbN4z9MYPNUJLA5ZZ=s745-no" width=120 height=120 style="margin-top: 40px;"></a>\
