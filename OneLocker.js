@@ -53,7 +53,7 @@ var login_protocol = function(){
 			<a href="https://ios.thunkable.com/" target="_blank"><img src="https://lh3.googleusercontent.com/AHjeGV1wbOhBnpGOaDvHvU8ezfjWUUEzCXaB9LLjAGaRcwxz2ncB99unGr_GmWyjZEGnzu-voPbMAfhfj3KojdiBtI5K9aUdV0fDt1FRWP39Wm-qG8L8478BEdYQ4Z959jUXyVfuZsoeSrqawftE3-tf_6jmtHacRs95ILb0eRSUeTj0-UfxNftrihKgORGCB--wEeGL_ndIOuw_dcLzKmfNrC2jj96zAuO4lYcbXt64BJyh-BMiTTqb7H0kWevvshUbwNI3vn8MiJWhnW3OZJUWEJPfHrcmk90kS1fubp14wk2Mfy-XeEltrYXapqvASuKRA4sbQTqIFKuizmV9hzcXnnXEgcGpZjljdmdPJmZKkwAmBG_yBSa9LQZK4LteJbONHtCoDPMi309cCIqB4v6AJLZfenYmYz3KXYedjPKvoxh3qcbI3ifZYfkEFBiTYChQiq8ExB-T-9REGsZjwtqEGNewrpUutb86q-X0zbBR0xovduvtFfHyrQqYd6KOj36H5rFcPl4gJD_cl-3X1ohkaG0ocQv0eKXCMm8rcTiGcjV5xgBucov7coRMGgmprnM6QsROG6MOBHMh4N8rPX5mzwM_HZ_1iheHYAhoP7Y9XN4VR1HTOCFeilc4zledU2z8Mk4R2d_j6ARbpBsrrpAZO8r3tQOa=s300-no" width=120 height=120></a>\
 			<a href="http://www.appmakr.com/machine/" target="_blank"><img src="http://apps.appmakr.com/styles/appmakr/logo_square.png" width=120 height=120></a>\
 			<a href="https://onesignal.com/#" target="_blank"><img src="https://onesignal.com/images/notification_logo.png" width=120 height=120></a>\
-			<a href="https://www.github.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/616309728688238592/pBeeJQDQ.png" width=120 height=120></a>\
+			<a href="https://www.github.com/" target="_blank"><img src="https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png" width=120 height=120></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
