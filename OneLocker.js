@@ -52,7 +52,6 @@ var login_protocol = function(){
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
 			<a href="https://x.thunkable.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1508971013/thunkable.png" width=120 height=120 style="margin-top: 40px;"></a>\
-			<a href="http://www.appmakr.com/machine/" target="_blank"><img src="http://apps.appmakr.com/styles/appmakr/logo_square.png" width=120 height=120></a>\
 			<a href="https://onesignal.com/#" target="_blank"><img src="https://onesignal.com/images/notification_logo.png" width=120 height=120></a>\
 			<a href="https://ifttt.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/e/ec/IFTTT_Logo_2015.png" width=130 height=130></a>\
 			<a href="https://education.github.com/pack/offers" target="_blank"><img src="https://avatars0.githubusercontent.com/u/9919?s=280&v=4" width=120 height=120></a>\
