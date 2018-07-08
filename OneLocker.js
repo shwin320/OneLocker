@@ -118,7 +118,7 @@ var login_protocol = function(){
 			</div>\
 			</div>\
 			<div class="linkmenu">\
-			<h4 id="lmtsd">LMTSD Online:</h4>\
+			<h4 id="lmtsd">LMTSD:</h4>\
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
 			<a href="https://www.lmtsd.org" target="_blank"><img src="https://i.vimeocdn.com/portrait/3663763_300x300" width=120 height=120 style="margin-top: 40px;"></a>\
