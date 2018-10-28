@@ -52,7 +52,7 @@ var login_protocol = function(){
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
 			<a href="https://x.thunkable.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1508971013/thunkable.png" width=120 height=120 style="margin-top: 40px;"></a>\
-			<a href="https://onesignal.com/#" target="_blank"><img src="https://onesignal.com/images/notification_logo.png" width=120 height=120></a>\
+			<a href="https://www.codecademy.com" target="_blank"><img src="https://avatars2.githubusercontent.com/u/1463944?s=280&v=4" width=120 height=120></a>\
 			<a href="https://ifttt.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/e/ec/IFTTT_Logo_2015.png" width=130 height=130></a>\
 			<a href="https://education.github.com/pack/offers" target="_blank"><img src="https://avatars0.githubusercontent.com/u/9919?s=280&v=4" width=120 height=120></a>\
 			</div>\
@@ -103,7 +103,7 @@ var login_protocol = function(){
 			<p><a href="#logout" class="link">Go to top</a></p>\
 			<div class="links">\
 			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.TGu7.png" width=120 height=120></a>\
-			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://wiki.itap.purdue.edu/download/attachments/22414392/khan-academy.png?version=1&modificationDate=1330550567000&api=v2" width=210 height=120></a>\
+			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
 			<a href="http://safari.lmtsd.org/SAFARI/montage/login/login.php?" target="_blank"><img src="http://www.safarimontage.com/images/homepage/sm_180px.jpg" width=150 height=150></a>\
 			</div>\
 			</div>\
