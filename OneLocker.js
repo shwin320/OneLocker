@@ -48,7 +48,7 @@ var login_protocol = function(){
 			</div>\
 			</div>\
 			<div class="linkmenu">\
-			<h4 id="computers">Programing and Devolopment:</h4>\			<a href="https://tuportal5.temple.edu/html/TEMPLE/tuc/lynda/interim.jsp" target="_blank"><img src="https://logonoid.com/images/lynda-com-logo.png" width=120 height=120></a>\
+			<h4 id="computers">Programing and Devolopment:</h4>\
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
 			<a href="https://x.thunkable.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1508971013/thunkable.png" width=120 height=120 style="margin-top: 40px;"></a>\
