@@ -51,7 +51,7 @@ var login_protocol = function(){
 			<h4 id="computers">Programing and Devolopment:</h4>\
 			<p><a href="#logout">Go to top</a></p>\
 			<div class="links">\
-			<a href="https://x.thunkable.com/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_1508971013/thunkable.png" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://x.thunkable.com/" target="_blank"><img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LNuwm3WJyMwnXosOFAO%2F-LNv1-fk6SoDGkvoZnnA%2Fbeaver-logo.png?alt=media&token=23477d96-346a-450a-8cfb-2ea295e6cde9" width=120 height=120 style="margin-top: 40px;"></a>\
 			<a href="https://www.codecademy.com" target="_blank"><img src="https://avatars2.githubusercontent.com/u/1463944?s=280&v=4" width=120 height=120></a>\
 			<a href="https://tuportal5.temple.edu/html/TEMPLE/tuc/lynda/interim.jsp" target="_blank"><img src="https://logonoid.com/images/lynda-com-logo.png" width=120 height=120></a>\
 			<a href="https://ifttt.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/e/ec/IFTTT_Logo_2015.png" width=130 height=130></a>\
