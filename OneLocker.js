@@ -219,7 +219,7 @@ var login_protocol = function(){
 		var password = pword.value;
 		if (password === "demo"){
 			body.innerHTML = '\
-			<p>Welcome to your locker, Ashwin Thomas.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
+			<p>Welcome to your locker, Demo Student.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
 			<p style="margin-top: -15px">Questions? Raise your hand and ask <a href="mailto:shwin320@gmail.com" target="_blank" class="link">Ashwin Thomas</a>, OneLocker devoloper.</p>\
 			<br><br>\
 			<h1>OneLocker</h1>\
