@@ -124,9 +124,6 @@ h4{
 	padding: 0px 5px 5px 5px;
 	margin-bottom: -37px;
 }
-.linkmenu p{
-	padding-bottom: 1px;
-}
 .linkmenu h4{
 	padding-top: 7px;
 	margin-top: 40px;
@@ -167,6 +164,7 @@ h4{
 .linkmenu p{
 	text-align: Left;
 	margin-top: -30px;
+	padding-bottom: 1px;
 }
 .content{
 	margin-top: 25px;
