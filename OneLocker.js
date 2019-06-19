@@ -4,10 +4,10 @@ var login_protocol = function(){
 	var reload = function(){
 		window.location.reload();
 	};	
-	if (username === "student1" || username === "athomas1"){
+	if (username === "athomas1"){
 		var pword = document.getElementById("p");
 		var password = pword.value;
-		if (password === "athomas5149" || password === "thomaslocker"){
+		if (password === "thomaslocker"){
 			body.innerHTML = '\
 			<p>Welcome to your locker, Ashwin Thomas.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
 			<p style="margin-top: -15px">Questions? Raise your hand and ask <a href="mailto:shwin320@gmail.com" target="_blank" class="link">Ashwin Thomas</a>, OneLocker devoloper.</p>\
@@ -141,6 +141,157 @@ var login_protocol = function(){
 			<h4 id="agenda">Agenda:</h4>\
 			<p><a href="#logout">Go to top</a></p>\
 			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
+			</div>\
+			';
+		}
+		else{
+			alert("You have entered an invalid login");
+			body.innerHTML = '<h1>Invalid Login!</h1>\
+			<buttton onclick="reload();" class="link" id="try_again"><a href="">Reattempt Login?</a></button>';
+		}
+	}
+	else if (username === "student1"){
+		var pword = document.getElementById("p");
+		var password = pword.value;
+		if (password === "thomaslocker"){
+			body.innerHTML = '\
+			<p>Welcome to your locker, Ashwin Thomas.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
+			<p style="margin-top: -15px">Questions? Raise your hand and ask <a href="mailto:shwin320@gmail.com" target="_blank" class="link">Ashwin Thomas</a>, OneLocker devoloper.</p>\
+			<br><br>\
+			<h1>OneLocker</h1>\
+			<h2>School, digitalized</h2>\
+			<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg" id="unhover">\
+			<br><br><br><br><br><br><br>\
+			<div id="contents">\
+			<h2>Your Locker\'s Contents:</h2>\
+			<p><a href="#google">1. Google</a></p>\
+			<p><a href="#study">2. Studying Recources</a></p>\
+			<p><a href="#textbooks">3. Textbooks</a></p>\
+			<p><a href="#lmtsd">4. LMTSD Online</a></p>\
+			<p><a href="#agenda">5. Agenda</a></p>\
+			</div>\
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
+			<div class="linkmenu">\
+			<h3 id="google">Google:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://accounts.google.com/AccountChooser?source=ogb&continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fauthuser%3D&Email=athomas5149%40stu.lmtsd.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://mail.google.com/mail/u/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" width=120 height=120></a>\
+			<a href="https://drive.google.com/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
+			<a href="https://calendar.google.com/calendar/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh3.ggpht.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw=w300" width=120 height=120></a>\
+			<a href="https://classroom.google.com/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/jWBBqrENpBVVCcMOekDOhhn-Zv_nAhWTysQK7zvANbyNd4UDodNlqoPpDE_XRCIpazdf=w300" width=120 height=120></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h3 id="study">Studying Recources:</h3>\
+			<p><a href="#logout" class="link">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.TGu7.png" width=120 height=120></a>\
+			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
+			<a href="http://safari.lmtsd.org/SAFARI/montage/login/login.php?" target="_blank"><img src="http://www.safarimontage.com/images/homepage/sm_180px.jpg" width=150 height=150></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h3 id="textbooks">Textbooks:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://passport.emcl.com/student/#/courses/42598" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124></a>\
+			<a href="https://my.hrw.com/sp/access?sp=hrw&connection=lmtsd-org" target="_blank"><img src="https://sites.google.com/a/jeffcoschools.us/ms-lepke-algebra-1/_/rsrc/1442436585539/big-ideas-algebra-1/holt.jpg" width=140 height=140></a>\
+			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=120 height=120 style="margin-top: 40px;"></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h3 id="lmtsd">LMTSD:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://www.lmtsd.org" target="_blank"><img src="https://i.vimeocdn.com/portrait/3663763_300x300" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://www.lmtsd.org/Domain/238" target="_blank"><img src="https://lh3.googleusercontent.com/pkY5S8CSMDPHMZV9pGWEd10RNQrVn4qfzOvBgd2lWZqiKVpOJOTrp1EszAuk4Hz7UmtCiIuBgzERyvU4nzO-tWxmV9UBfQQP1oBOWVBsdiJ9jR2iQtYGbdRXKBnQt5olHBAHUVjJB9pPh-njuW5PuwCjqGovlOR-U9rxY-D9EFtff_YVy5uY3StjRtKL53lc_heOzmkcGYhKCheYNJEvqjCE0mjpN0Lle0nVvgbi2eBbJypQPt12c25zbxRgRC3PW_b3vrEnyADtzANyUI0WaAVDjX-DhH1lk6y3PSEcBJ4kCa1APrfqbU-5fUM0MJ7XNAdgOTCZYoYIWAairG5n1YE2qS22psx-bfAdgg8xMdte4h7w1sNtoJKJKVbJ86AcLtJ6l5fPOE6eHYpH7oTKNvWq3MeQZGHmj69503nq0kiklE82Ml4hNhdopJ_HOjkMJYHOf-ptWIskwtn_bkgz9xZECPVQmc22zLBHBZLEGmNY4PnFq0qyxhZzPiw8iL8uJAABPjMeRyJ7Fc_RJbn26lZJO1RAeHmQQDmNNzEBVkJ8ljOF3iqWXn-4gEZe8Svh1fwjuFzhJzejLx0shpfXJe-JoaY2UJSdEjicupmpjLC_GfCSyhOocghYV9m_Y7-7IgTprMajH7t4cpftICzoRvsFzd9JJqJWCHI=w392-h259-no" width=196 height=129.5></a>\
+			<a href="https://www.lmtsd.org/Page/12691" target="_blank"><img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_3709/File/General%201/online%20resources.jpg" width=191.6 height=113.6 style="margin-top: 40px;"></a>\
+			<a href="https://www.lmtsd.org/Page/12676" target="_blank"><img src="https://www.lmtsd.org/cms/lib/PA01000427/Centricity/Domain/54/Virtual_Backpack.jpg" width=93.75 height=125.625></a>\
+			<a href="https://lmtsd.nutrislice.com/menu/murray-avenue/lunch/" target="_blank"><img src="https://msroses.com/wp-content/uploads/2017/04/MrRoses_lunch2.png" width=121 height=120></a>\
+			<a href="https://www.lmtsd.org/domain/328" target="_blank"><img src="https://pre.psdschools.org/sites/pre.psdschools.org/files/8th%20grade.png" width=140 height=140></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu" style="text-align: Center;">\
+			<h3 id="agenda">Agenda:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
+			</div>\
+			';
+		}
+		else{
+			alert("You have entered an invalid login");
+			body.innerHTML = '<h1>Invalid Login!</h1>\
+			<buttton onclick="reload();" class="link" id="try_again"><a href="">Reattempt Login?</a></button>';
+		}
+	}
+	else if (username === "preview1"){
+		var pword = document.getElementById("p");
+		var password = pword.value;
+		if (password === "demo"){
+			body.innerHTML = '<p>Welcome to your locker, Demo Student.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
+			<p style="margin-top: -15px">Questions? Raise your hand and ask <a href="mailto:shwin320@gmail.com" target="_blank" class="link">Ashwin Thomas</a>, OneLocker devoloper.</p>\
+			<br><br>\
+			<h1>OneLocker</h1>\
+			<h2>School, digitalized</h2>\
+			<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg" id="unhover">\
+			<br><br><br><br><br><br><br>\
+			<div id="contents">\
+			<h2>Your Locker\'s Contents:</h2>\
+			<p><a href="#google">1. Google</a></p>\
+			<p><a href="#study">2. Studying Recources</a></p>\
+			<p><a href="#textbooks">3. Textbooks</a></p>\
+			<p><a href="#lmtsd">4. LMTSD Online</a></p>\
+			<p><a href="#agenda">5. Agenda</a></p>\
+			</div>\
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
+			<div class="linkmenu">\
+			<h3 id="google">Google:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://google.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://mail.google.com/mail/" target="_blank"><img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" width=120 height=120></a>\
+			<a href="https://drive.google.com/" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
+			<a href="https://calendar.google.com/calendar/" target="_blank"><img src="https://lh3.ggpht.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw=w300" width=120 height=120></a>\
+			<a href="https://classroom.google.com/" target="_blank"><img src="https://lh3.googleusercontent.com/jWBBqrENpBVVCcMOekDOhhn-Zv_nAhWTysQK7zvANbyNd4UDodNlqoPpDE_XRCIpazdf=w300" width=120 height=120></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h3 id="study">Studying Recources:</h3>\
+			<p><a href="#logout" class="link">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.TGu7.png" width=120 height=120></a>\
+			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
+			<a href="http://safari.lmtsd.org/SAFARI/montage/login/login.php?" target="_blank"><img src="http://www.safarimontage.com/images/homepage/sm_180px.jpg" width=150 height=150></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h3 id="textbooks">Textbooks:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://passport.emcl.com/student/#/courses/42598" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124></a>\
+			<a href="https://my.hrw.com/sp/access?sp=hrw&connection=lmtsd-org" target="_blank"><img src="https://sites.google.com/a/jeffcoschools.us/ms-lepke-algebra-1/_/rsrc/1442436585539/big-ideas-algebra-1/holt.jpg" width=140 height=140></a>\
+			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=120 height=120 style="margin-top: 40px;"></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h3 id="lmtsd">LMTSD:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<div class="links">\
+			<a href="https://www.lmtsd.org" target="_blank"><img src="https://i.vimeocdn.com/portrait/3663763_300x300" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://www.lmtsd.org/Domain/238" target="_blank"><img src="https://lh3.googleusercontent.com/pkY5S8CSMDPHMZV9pGWEd10RNQrVn4qfzOvBgd2lWZqiKVpOJOTrp1EszAuk4Hz7UmtCiIuBgzERyvU4nzO-tWxmV9UBfQQP1oBOWVBsdiJ9jR2iQtYGbdRXKBnQt5olHBAHUVjJB9pPh-njuW5PuwCjqGovlOR-U9rxY-D9EFtff_YVy5uY3StjRtKL53lc_heOzmkcGYhKCheYNJEvqjCE0mjpN0Lle0nVvgbi2eBbJypQPt12c25zbxRgRC3PW_b3vrEnyADtzANyUI0WaAVDjX-DhH1lk6y3PSEcBJ4kCa1APrfqbU-5fUM0MJ7XNAdgOTCZYoYIWAairG5n1YE2qS22psx-bfAdgg8xMdte4h7w1sNtoJKJKVbJ86AcLtJ6l5fPOE6eHYpH7oTKNvWq3MeQZGHmj69503nq0kiklE82Ml4hNhdopJ_HOjkMJYHOf-ptWIskwtn_bkgz9xZECPVQmc22zLBHBZLEGmNY4PnFq0qyxhZzPiw8iL8uJAABPjMeRyJ7Fc_RJbn26lZJO1RAeHmQQDmNNzEBVkJ8ljOF3iqWXn-4gEZe8Svh1fwjuFzhJzejLx0shpfXJe-JoaY2UJSdEjicupmpjLC_GfCSyhOocghYV9m_Y7-7IgTprMajH7t4cpftICzoRvsFzd9JJqJWCHI=w392-h259-no" width=196 height=129.5></a>\
+			<a href="https://www.lmtsd.org/Page/12691" target="_blank"><img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_3709/File/General%201/online%20resources.jpg" width=191.6 height=113.6 style="margin-top: 40px;"></a>\
+			<a href="https://www.lmtsd.org/Page/12676" target="_blank"><img src="https://www.lmtsd.org/cms/lib/PA01000427/Centricity/Domain/54/Virtual_Backpack.jpg" width=93.75 height=125.625></a>\
+			<a href="https://lmtsd.nutrislice.com/menu/murray-avenue/lunch/" target="_blank"><img src="https://msroses.com/wp-content/uploads/2017/04/MrRoses_lunch2.png" width=121 height=120></a>\
+			<a href="https://www.lmtsd.org/domain/328" target="_blank"><img src="https://pre.psdschools.org/sites/pre.psdschools.org/files/8th%20grade.png" width=140 height=140></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu" style="text-align: Center;">\
+			<h3 id="agenda">Agenda:</h3>\
+			<p><a href="#logout">Go to top</a></p>\
+			<iframe src="https://docs.google.com/document/d/1PjDKessoCjBfA7esiMfTCXN5bK3o5JPgeZwNEry8SWc/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
 			</div>\
 			';
 		}
