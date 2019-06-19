@@ -50,7 +50,7 @@ var login_protocol = function(){
 			<h4 id="storage">Cloud Storage:</h4>\
 			<p><a href="#logout" style="font-size: 16px;">Go to top</a></p>\
 			<div class="links">\
-			<a href="https://accounts.google.com/AccountChooser?source=ogb&continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fauthuser%3D&Email=shwin320%40gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" class="hoverer" width=100 height=100 style="margin-top: 40px;"></a>\
+			<a href="https://drive.google.com/drive/u/?authuser=shwin320@gmail.com" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" class="hoverer" width=100 height=100 style="margin-top: 40px;"></a>\
 			<a href="https://photos.google.com/u/?authuser=shwin320@gmail.com" target="_blank"><img src="https://ssl.gstatic.com/social/photosui/images/logo_photos_color_192.png" width=120 height=120></a>\
 			<a href="https://onedrive.live.com/sync?ru=http%3A%2F%2Fgo.microsoft.com%2Ffwlink%2F%3FLinkID%3D223554#t=EgA7AgMAAAAEgAAADAABSASh0hpsIQAsdB0z3QIHfXPsZ4v16JS%2B2ugKELvq12h7qOfGFxD51ZyRJBv3wt7qm1qDKrGmC7MWJw01y5kBvn1Tpa%2FRkNTd29%2F1G%2Bwhktdfh45tohoJmN6nYHxDKftz5GTguwwrDltOMhkugdKdP5lrQpePNw%2BKUmfYssg5SdS8MqBeNWVQ3e0TnkAKqWiZlvCYHEDg9GtKHmHqhs3Scn5aJV0a4mSnP9VThZForp%2BcZlvJ66euabF5ymKZa%2FOyGBpAxkCaICj9PWc5%2BD1XHqZ9IsoN4ee5%2FORl5ENgAheJMMAUNG3PtCupiv%2BZKneN5dcZvzEsMqudtHzIOXh60SoBeAAqAQFAAwDk70rSyUwKXa5StloQJwAAChCgAAAVAHNod2luMzIwQG91dGxvb2suY29tAFsAACFzaHdpbjMyMCVvdXRsb29rLmNvbUBwYXNzcG9ydC5jb20AAATeVVMAAAAAAAAECQIAAJYfbVAQBkMABkFzaHdpbgAGVGhvbWFzAAAAAAAAAAAAAAAAAAAAAAAAGXXclcDj0bEAAMlMCl0G5IBdAAAAAAAAAAAAAAAAJQAyNjAxOjRiOjI4MDo1M2NkOmI1NDk6MTU3Mzo3MzMwOmQyYzIABQEAAAD%2FvxgA5nATogQQAQAAAAAAAAAAAAAAAAAAAMhnE9GMbBc7AgAYAKFQJ6MAABgAihnwWQAAAAAAAAAAAAAAAAAA%2Fb8jANerRoEAAAAABA%3D%3D" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Microsoft_Office_OneDrive_%282018%E2%80%93present%29.svg" width=120 height=120></a>\
 			</div>\
@@ -108,7 +108,7 @@ var login_protocol = function(){
 			<div class="linkmenu">\
 			<h4 id="tools">Tools and Resources:</h4>\
 			<p><a href="#logout" class="link">Go to top</a></p>\
-			<div class="links">\
+			<div class="links" style="margin-top: 40px;">\
 			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.TGu7.png" width=120 height=120></a>\
 			<a href="https://remotedesktop.google.com/u/1/access/" target="_blank"><img src="https://lh3.googleusercontent.com/I4DRWoABrUQsaAIQFVSKha98q1u2ilEdrwPJBaf9Mb8KdGZnXzs5DObrwcwUZovgOA=s180-rw" width=120 height=120></a>\
 			<a href="https://sites.google.com/lmtsd.org/lmhslibrary/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
