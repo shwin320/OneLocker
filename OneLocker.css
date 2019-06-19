@@ -174,3 +174,18 @@ h4{
 	text-align: Left;
 	margin-bottom: -20px;
 }
+#contents h2{
+	color: Black;
+	text-align: Left;
+	font-size: 25px;
+	margin-bottom: -7px;
+}
+#contents p{
+	font-size: 18px;
+	text-align: Left;
+	margin-bottom: -20px;
+}
+#contents a:hover{
+	opacity: 0.5;
+	text-decoration: underline;
+}
