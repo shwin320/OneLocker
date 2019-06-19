@@ -162,13 +162,16 @@ var login_protocol = function(){
 			<h2>Your life, organized</h2>\
 			<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg" id="unhover">\
 			<br><br><br><br><br><br><br>\
-			<div id="contents">\
-			<h3>Your Locker\'s Contents:</h3>\
+			<div id="contents" style="text-align: Left;">\
+			<h3 style="margin-bottom: -25px;">Your Locker\'s Contents:</h3>\
+			<p><a href="#logout" style="font-size: 16px;">Go to top</a></p>\
+			<div class="content">\
 			<p><a href="#google">1. Google</a></p>\
-			<p><a href="#study">2. Studying Recources</a></p>\
+			<p><a href="#tools">2. Tools and Resources</a></p>\
 			<p><a href="#textbooks">3. Textbooks</a></p>\
-			<p><a href="#lmtsd">4. LMTSD Online</a></p>\
+			<p><a href="#lmtsd">4. LMTSD</a></p>\
 			<p><a href="#agenda">5. Agenda</a></p>\
+			</div>\
 			</div>\
 			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
 			<div class="linkmenu">\
