@@ -13,7 +13,7 @@ var login_protocol = function(){
 			<p style="margin-top: -15px">Questions? Raise your hand and ask <a href="mailto:shwin320@gmail.com" target="_blank" class="link">Ashwin Thomas</a>, OneLocker devoloper.</p>\
 			<br><br>\
 			<h1>OneLocker</h1>\
-			<h2>Your world, digitalized</h2>\
+			<h2>Your life, organized</h2>\
 			<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg" id="unhover">\
 			<br><br><br><br><br><br><br>\
 			<div>\
