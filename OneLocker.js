@@ -165,7 +165,7 @@ var login_protocol = function(){
 			<div id="contents" style="text-align: Left;">\
 			<h3 style="margin-bottom: -25px;">Your Locker\'s Contents:</h3>\
 			<p><a href="#logout" style="font-size: 16px;">Go to top</a></p>\
-			<div>\
+			<div class="content" style="text-align: Left; font-size: 18px;">\
 			<p><a href="#google">1. Google</a></p>\
 			<p><a href="#tools">2. Tools and Resources</a></p>\
 			<p><a href="#textbooks">3. Textbooks</a></p>\
