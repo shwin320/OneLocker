@@ -125,7 +125,7 @@ var login_protocol = function(){
 			<a href="https://www.lmtsd.org/Domain/75" target="_blank"><img src="https://schoolassets.s3.amazonaws.com/logos/2041/2041.gif" width=120 height=120></a>\
 			<a href="https://www.lmtsd.org/Page/12691" target="_blank"><img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_3709/File/General%201/online%20resources.jpg" width=191.6 height=113.6 style="margin-top: 40px;"></a>\
 			<a href="https://www.lmtsd.org/Page/12677" target="_blank"><img src="https://www.lmtsd.org/cms/lib/PA01000427/Centricity/Domain/54/Virtual_Backpack.jpg" width=93.75 height=125.625></a>\
-			<a href="https://lmtsd.nutrislice.com/menu/lower-moreland-high/lunch/" target="_blank"><img src="https://msroses.com/wp-content/uploads/2017/04/MrRoses_lunch2.png" width=121 height=120></a>\
+			<a href="https://lmtsd.nutrislice.com/menu/lower-moreland-high/lunch/" target="_blank"><img src="https://www.nutrislice.com/assets/nutrislice-icon.svg" width=122.1 height=117.7></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu" style="text-align: Center;">\
@@ -199,7 +199,7 @@ var login_protocol = function(){
 			<a href="https://www.lmtsd.org/Domain/75" target="_blank"><img src="https://schoolassets.s3.amazonaws.com/logos/2041/2041.gif" width=120 height=120></a>\
 			<a href="https://www.lmtsd.org/Page/12691" target="_blank"><img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_3709/File/General%201/online%20resources.jpg" width=191.6 height=113.6 style="margin-top: 40px;"></a>\
 			<a href="https://www.lmtsd.org/Page/12677" target="_blank"><img src="https://www.lmtsd.org/cms/lib/PA01000427/Centricity/Domain/54/Virtual_Backpack.jpg" width=93.75 height=125.625></a>\
-			<a href="https://lmtsd.nutrislice.com/menu/lower-moreland-high/lunch/" target="_blank"><img src="https://msroses.com/wp-content/uploads/2017/04/MrRoses_lunch2.png" width=121 height=120></a>\
+			<a href="https://lmtsd.nutrislice.com/menu/lower-moreland-high/lunch/" target="_blank"><img src="https://www.nutrislice.com/assets/nutrislice-icon.svg" width=122.1 height=117.7></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu" style="text-align: Center;">\
@@ -273,7 +273,7 @@ var login_protocol = function(){
 			<a href="https://www.lmtsd.org/Domain/75" target="_blank"><img src="https://schoolassets.s3.amazonaws.com/logos/2041/2041.gif" width=120 height=120></a>\
 			<a href="https://www.lmtsd.org/Page/12691" target="_blank"><img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_3709/File/General%201/online%20resources.jpg" width=191.6 height=113.6 style="margin-top: 40px;"></a>\
 			<a href="https://www.lmtsd.org/Page/12677" target="_blank"><img src="https://www.lmtsd.org/cms/lib/PA01000427/Centricity/Domain/54/Virtual_Backpack.jpg" width=93.75 height=125.625></a>\
-			<a href="https://lmtsd.nutrislice.com/menu/lower-moreland-high/lunch/" target="_blank"><img src="https://msroses.com/wp-content/uploads/2017/04/MrRoses_lunch2.png" width=121 height=120></a>\
+			<a href="https://lmtsd.nutrislice.com/menu/lower-moreland-high/lunch/" target="_blank"><img src="https://www.nutrislice.com/assets/nutrislice-icon.svg" width=122.1 height=117.7></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu" style="text-align: Center;">\
