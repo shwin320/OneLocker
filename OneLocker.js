@@ -57,7 +57,7 @@ var login_protocol = function(){
 			<h4 id="computers">Programing and Development:</h4>\
 			<div class="links">\
 			<a href="https://x.thunkable.com/" target="_blank"><img src="https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LAn5scXl2uqUJUOqkJo%2F-LNuwm3WJyMwnXosOFAO%2F-LNv1-fk6SoDGkvoZnnA%2Fbeaver-logo.png?alt=media&token=23477d96-346a-450a-8cfb-2ea295e6cde9" width=120 height=120 style="margin-top: 40px;"></a>\
-			<a href="https://lynda.com" target="_blank"><img src="https://logonoid.com/images/lynda-com-logo.png" width=120 height=120></a>\
+			<a href="https://www.linkedin.com/learning/" target="_blank"><img src="https://lh3.googleusercontent.com/_rscxiBBXosch987Y2RJjgeVzhCoewK_0IXsrIKFKKVAaXRqZaVXcSgap7uwM4-fbck=s180-rw" width=120 height=120></a>\
 			<a href="https://education.github.com/pack/offers" target="_blank"><img src="https://avatars0.githubusercontent.com/u/9919?s=280&v=4" width=120 height=120></a>\
 			</div>\
 			</div>\
