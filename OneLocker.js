@@ -282,6 +282,12 @@ var login_protocol = function(){
 			</div>\
 			';
 		}
+		else{
+			alert("You have entered an invalid login");
+			body.innerHTML = '<h1>Invalid Login!</h1>\
+			<buttton onclick="reload();" class="link" id="try_again"><a href="">Reattempt Login?</a></button>';
+		}
+	}
 	else if (username === "public"){
 		var pword = document.getElementById("p");
 		var password = pword.value;
