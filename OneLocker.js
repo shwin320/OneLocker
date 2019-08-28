@@ -115,7 +115,7 @@ var login_protocol = function(){
 			<a href="https://passport.emcl.com/" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124></a>\
 			<a href="https://my.hrw.com/sp/access?sp=hrw&connection=lmtsd-org" target="_blank"><img src="https://sites.google.com/a/jeffcoschools.us/ms-lepke-algebra-1/_/rsrc/1442436585539/big-ideas-algebra-1/holt.jpg" width=140 height=140></a>\
 			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=140 height=140 style="margin-top: 40px;"></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -189,7 +189,7 @@ var login_protocol = function(){
 			<a href="https://passport.emcl.com" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124></a>\
 			<a href="https://my.hrw.com/sp/access?sp=hrw&connection=lmtsd-org" target="_blank"><img src="https://sites.google.com/a/jeffcoschools.us/ms-lepke-algebra-1/_/rsrc/1442436585539/big-ideas-algebra-1/holt.jpg" width=140 height=140></a>\
 			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=140 height=140 style="margin-top: 40px;"></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -263,7 +263,7 @@ var login_protocol = function(){
 			<a href="https://passport.emcl.com" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124></a>\
 			<a href="https://my.hrw.com/sp/access?sp=hrw&connection=lmtsd-org" target="_blank"><img src="https://sites.google.com/a/jeffcoschools.us/ms-lepke-algebra-1/_/rsrc/1442436585539/big-ideas-algebra-1/holt.jpg" width=140 height=140></a>\
 			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=140 height=140 style="margin-top: 40px;"></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -279,6 +279,71 @@ var login_protocol = function(){
 			<div class="linkmenu" style="text-align: Center;">\
 			<h4 id="agenda">Agenda:</h4>\
 			<iframe src="https://docs.google.com/document/d/1PjDKessoCjBfA7esiMfTCXN5bK3o5JPgeZwNEry8SWc/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
+			</div>\
+			';
+		}
+	else if (username === "public"){
+		var pword = document.getElementById("p");
+		var password = pword.value;
+		if (password === "lmtsd"){
+			body.innerHTML = '\
+			<p>Welcome to your locker, Students.<button onclick="reload();" class="link" id="logout"><a href="" class="link">Logout?</a></button></p>\
+			<p style="margin-top: -15px">Questions? Raise your hand and ask <a href="mailto:shwin320@gmail.com" target="_blank" class="link">Ashwin Thomas</a>, OneLocker devoloper.</p>\
+			<br><br>\
+			<h1>OneLocker</h1>\
+			<h2>Your life, organized</h2>\
+			<img src="https://cdn.jsdelivr.net/gh/shwin320/OneLocker/OneLocker.png" id="unhover">\
+			<br><br><br><br><br><br><br>\
+			<div id="contents" style="text-align: Left;">\
+			<h3 style="margin-bottom: -25px;">Your Locker\'s Contents:</h3>\
+			<div class="content" style="text-align: Left; font-size: 18px;">\
+			<p><a href="#google">1. Google</a></p>\
+			<p><a href="#resources">2. Student Resources</a></p>\
+			<p><a href="#textbooks">3. Textbooks</a></p>\
+			<p><a href="#lmtsd">4. LMTSD</a></p>\
+			</div>\
+			</div>\
+			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
+			<div class="linkmenu">\
+			<h4 id="google">Google:</h4>\
+			<div class="links">\
+			<a href="https://google.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://mail.google.com/mail/" target="_blank"><img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" width=120 height=120></a>\
+			<a href="https://drive.google.com/drive/" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
+			<a href="https://calendar.google.com/calendar/" target="_blank"><img src="https://lh4.ggpht.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw=w300" width=120 height=120></a>\
+			<a href="https://classroom.google.com/" target="_blank"><img src="https://lh4.googleusercontent.com/jWBBqrENpBVVCcMOekDOhhn-Zv_nAhWTysQK7zvANbyNd4UDodNlqoPpDE_XRCIpazdf=w300" width=120 height=120></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h4 id="resources">Student Resources:</h4>\
+			<div class="links" style="margin-top: -25px;">\
+			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.TGu7.png" width=120 height=120></a>\
+			<a href="http://safari.lmtsd.org/" target="_blank"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple117/v4/96/88/e5/9688e57b-ddcf-e996-9de0-d0d9ed8d3d67/mzl.yenzknqd.png/246x0w.jpg" width=120 height=120></a>\
+			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
+			<a href="http://www.studyisland.com/" target="_blank"><img src="https://pbs.twimg.com/profile_images/1017103826342510592/U5X8obEw.jpg" width=120 height=120></a>\
+			<a href="https://sites.google.com/lmtsd.org/lmhslibrary/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h4 id="textbooks">Textbooks:</h4>\
+			<div class="links">\
+			<a href="https://passport.emcl.com" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124></a>\
+			<a href="https://my.hrw.com/sp/access?sp=hrw&connection=lmtsd-org" target="_blank"><img src="https://sites.google.com/a/jeffcoschools.us/ms-lepke-algebra-1/_/rsrc/1442436585539/big-ideas-algebra-1/holt.jpg" width=140 height=140></a>\
+			<a href="https://accounts.google.com/o/saml2/initsso?idpid=C01p8vbki&spid=1073399322464&forceauthn=false" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MHE_Logo_RGB.png" width=140 height=140></a>\
+			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6></a>\
+			<a href="https://www.eharcourtschool.com/" target="_blank"><img src="https://billpayhelp.co/wp-content/uploads/2017/05/Harcourt-e-Products-Logo.gif" width=140 height=140></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://lh3.googleusercontent.com/UhSFtCJHZzqbH2VGlfgLXoKJgv-NrBcMAynw6N3EReWK-UybX40yi7o1YWalhIZnvtvcN82zbbDbgoLHOVBIiGeOHBz5g9whGmeEXa0MgNrkam8Q5VcK8TUhkomGy0HnCFW8fvR5DrfLBHcCSs0O8lym_wLkecz4Gh-iStu_rB9P4V_D7JPqMmktz6jxfBnr38Uqg9wUX9lq7QtEshheoRM7LIMiSHOelyJHLLkkDeCxr82SyS9HIeAjxRvjy8vg6i2DFvLKEjDfqf97IXEM9rrIFeSTERR9mPNjcoJs34kl-U61DS1fz_5FrydPkzHXqKWy-82e-VZa533v5OIlkuu1D5pV4WGlRNeYgN-MRHodEo6wlyMNZTnGdII5l35Rs8IQ_c2oohciguRSbOz4NgZzhD9sTJ0HVuTMwuDXZ_9TMKFdcaA-rbg8P1ZuJ_V6skWRFDiA7MawTvrkEeWnPKxD6vCNUX3XidjFBCyW-wvksjf767caHUmxFYpx429qxNa5_3Oy-RptA_41FFPAmoZnqfgZIzbl6XkGImPNSo04QmkuTtVhKDr0ZMJppUH6ynFCCyi3YJaxoKwsdFJ3AeojENWqKjPyal2qfP6urC-sMrXHZ5J3fvVHFZIjRLcK5WVsElH5CbrcBR51CNclYBwVahA2pyC7=s400-no" width=140 height=140 style="margin-top: 40px;"></a>\
+			<a href="https://www-k6.thinkcentral.com/sp/access?sp=tc&connection=lmtsd-org" target="_blank"><img src="https://www.incidentiq.com/wp-content/uploads/2018/06/ThinkCentralLogo.jpg" width=140 height=140></a>\
+			</div>\
+			</div>\
+			<div class="linkmenu">\
+			<h4 id="lmtsd">LMTSD:</h4>\
+			<div class="links">\
+			<a href="https://www.lmtsd.org" target="_blank"><img src="https://i.vimeocdn.com/portrait/3663763_300x300" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://www.lmtsd.org/Page/12691" target="_blank"><img src="http://p7cdn4static.sharpschool.com/UserFiles/Servers/Server_3709/File/General%201/online%20resources.jpg" width=191.6 height=113.6 style="margin-top: 40px;"></a>\
+			<a href="https://www.lmtsd.org/Page/440" target="_blank"><img src="https://www.lmtsd.org/cms/lib/PA01000427/Centricity/Domain/54/Virtual_Backpack.jpg" width=93.75 height=125.625></a>\
+			<a href="https://lmtsd.nutrislice.com/" target="_blank"><img src="https://www.nutrislice.com/assets/nutrislice-icon.svg" width=122.1 height=117.7></a>\
+			</div>\
 			</div>\
 			';
 		}
