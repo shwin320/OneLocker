@@ -14,7 +14,7 @@ var login_protocol = function(){
 			<br><br>\
 			<h1>OneLocker</h1>\
 			<h2>Your life, organized</h2>\
-			<img src="https://images-na.ssl-images-amazon.com/images/I/51ry%2BQ3N9VL._SY355_.jpg" id="unhover">\
+			<img src="https://cdn.jsdelivr.net/gh/shwin320/OneLocker/OneLocker.png" id="unhover">\
 			<br><br><br><br><br><br><br>\
 			<div>\
 			<h2 style="margin-bottom: -10px; color: Black;">Your Locker\'s Contents:</h2>\
