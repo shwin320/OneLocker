@@ -1,3 +1,16 @@
+window.onscroll = function() {scrollshow()};
+function scrollshow(){
+	if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+		document.getElementById("scroll").style.display = "block";
+	} 
+	else {
+		document.getElementById("scroll").style.display = "none";
+	}
+}
+function scrollup(){
+	document.body.scrollTop = 0;
+	document.documentElement.scrollTop = 0;
+}
 var login_protocol = function(){
 	var uname = document.getElementById("u");
 	var username = uname.value;
@@ -28,7 +41,6 @@ var login_protocol = function(){
 			<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\
 			<div id="home_content" style="text-align: Left;">\
 			<h3 style="margin-bottom: -25px;">Home:</h3>\
-			<p><a href="#logout" style="font-size: 16px;">Go to top</a></p>\
 			<div class="content">\
 			<p><a href="#productivity">1. Productivity</a></p>\
 			<p><a href="#storage">2. Cloud Storage</a></p>\
@@ -80,7 +92,6 @@ var login_protocol = function(){
 			<br><br><br><br><br><br><br><br><br>\
 			<div id="school_content" style="text-align: Left;">\
 			<h3 style="margin-bottom: -25px;">School:</h3>\
-			<p><a href="#logout" style="font-size: 16px;">Go to top</a></p>\
 			<div class="content">\
 			<p><a href="#google">1. Google</a></p>\
 			<p><a href="#tools">2. Tools and Resources</a></p>\
@@ -132,6 +143,7 @@ var login_protocol = function(){
 			<h4 id="agenda">Agenda:</h4>\
 			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
 			</div>\
+			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
 		}
 		else{
@@ -206,6 +218,7 @@ var login_protocol = function(){
 			<h4 id="agenda">Agenda:</h4>\
 			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
 			</div>\
+			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
 		}
 		else{
@@ -280,6 +293,7 @@ var login_protocol = function(){
 			<h4 id="agenda">Agenda:</h4>\
 			<iframe src="https://docs.google.com/document/d/1PjDKessoCjBfA7esiMfTCXN5bK3o5JPgeZwNEry8SWc/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
 			</div>\
+			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
 		}
 		else{
@@ -351,6 +365,7 @@ var login_protocol = function(){
 			<a href="https://lmtsd.nutrislice.com/" target="_blank"><img src="https://www.nutrislice.com/assets/nutrislice-icon.svg" width=122.1 height=117.7></a>\
 			</div>\
 			</div>\
+			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
 		}
 		else{
