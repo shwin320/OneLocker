@@ -180,7 +180,7 @@ var login_protocol = function(){
 			<div class="links">\
 			<a href="https://accounts.google.com/AccountChooser?source=ogb&continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fauthuser%3D&Email=athomas5149%40stu.lmtsd.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" width=120 height=120 style="margin-top: 40px;"></a>\
 			<a href="https://mail.google.com/mail/u/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" width=120 height=120></a>\
-			<a href="https://drive.google.com/drive/u/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
+			<a href="https://drive.google.com/" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
 			<a href="https://calendar.google.com/calendar/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh4.ggpht.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw=w300" width=120 height=120></a>\
 			<a href="https://classroom.google.com/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh4.googleusercontent.com/jWBBqrENpBVVCcMOekDOhhn-Zv_nAhWTysQK7zvANbyNd4UDodNlqoPpDE_XRCIpazdf=w300" width=120 height=120></a>\
 			</div>\
@@ -253,11 +253,11 @@ var login_protocol = function(){
 			<div class="linkmenu">\
 			<h4 id="google">Google:</h4>\
 			<div class="links">\
-			<a href="https://accounts.google.com/AccountChooser?source=ogb&continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fauthuser%3D&Email=athomas5149%40stu.lmtsd.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" width=120 height=120 style="margin-top: 40px;"></a>\
-			<a href="https://mail.google.com/mail/u/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" width=120 height=120></a>\
-			<a href="https://drive.google.com/drive/u/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
-			<a href="https://calendar.google.com/calendar/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh4.ggpht.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw=w300" width=120 height=120></a>\
-			<a href="https://classroom.google.com/?authuser=athomas5149@stu.lmtsd.org" target="_blank"><img src="https://lh4.googleusercontent.com/jWBBqrENpBVVCcMOekDOhhn-Zv_nAhWTysQK7zvANbyNd4UDodNlqoPpDE_XRCIpazdf=w300" width=120 height=120></a>\
+			<a href="https://google.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1000px-Google_%22G%22_Logo.svg.png" width=120 height=120 style="margin-top: 40px;"></a>\
+			<a href="https://mail.google.com/mail/" target="_blank"><img src="https://lh6.ggpht.com/8-N_qLXgV-eNDQINqTR-Pzu5Y8DuH0Xjz53zoWq_IcBNpcxDL_gK4uS_MvXH00yN6nd4=w300" width=120 height=120></a>\
+			<a href="https://drive.google.com/drive/" target="_blank"><img src="https://lh6.ggpht.com/k7Z4J1IIXXJnC2NRnFfJNlkn7kZge4Zx-Yv5uqYf4222tx74wXDzW24OvOxlcpw0KcQ=w300" width=120 height=120></a>\
+			<a href="https://calendar.google.com/calendar/" target="_blank"><img src="https://lh4.ggpht.com/oGR9I1X9No3SfFEXrq655tETtVVzI3jIphhmEVPGPEVuM5gfwh8lOGWHQFf6gjSTvw=w300" width=120 height=120></a>\
+			<a href="https://classroom.google.com/" target="_blank"><img src="https://lh4.googleusercontent.com/jWBBqrENpBVVCcMOekDOhhn-Zv_nAhWTysQK7zvANbyNd4UDodNlqoPpDE_XRCIpazdf=w300" width=120 height=120></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
