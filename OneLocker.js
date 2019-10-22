@@ -115,7 +115,7 @@ var login_protocol = function(){
 			<div class="links" style="margin-top: -25px;">\
 			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.893fa7e00da6339.png" width=120 height=120></a>\
 			<a href="https://remotedesktop.google.com/u/1/access/" target="_blank"><img src="https://lh3.googleusercontent.com/I4DRWoABrUQsaAIQFVSKha98q1u2ilEdrwPJBaf9Mb8KdGZnXzs5DObrwcwUZovgOA=s180-rw" width=120 height=120></a>\
-			<a href="https://sites.google.com/lmtsd.org/lmhslibrary/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
+			<a href="https://sites.google.com/lmtsd.org/lmhs-library/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
 			<a href="https://www.ilovepdf.com/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/41GskMcl4-L._SY355_.png" width=120 height=120></a>\
 			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
 			</div>\
@@ -189,7 +189,7 @@ var login_protocol = function(){
 			<div class="links" style="margin-top: -25px;">\
 			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.893fa7e00da6339.png" width=120 height=120></a>\
 			<a href="https://remotedesktop.google.com/u/1/access/" target="_blank"><img src="https://lh3.googleusercontent.com/I4DRWoABrUQsaAIQFVSKha98q1u2ilEdrwPJBaf9Mb8KdGZnXzs5DObrwcwUZovgOA=s180-rw" width=120 height=120></a>\
-			<a href="https://sites.google.com/lmtsd.org/lmhslibrary/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
+			<a href="https://sites.google.com/lmtsd.org/lmhs-library/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
 			<a href="https://www.ilovepdf.com/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/41GskMcl4-L._SY355_.png" width=120 height=120></a>\
 			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
 			</div>\
@@ -263,7 +263,7 @@ var login_protocol = function(){
 			<div class="links" style="margin-top: -25px;">\
 			<a href="https://quizlet.com/latest" target="_blank"><img src="https://quizlet.com/a/i/brandmark/1024.893fa7e00da6339.png" width=120 height=120></a>\
 			<a href="https://remotedesktop.google.com/u/1/access/" target="_blank"><img src="https://lh3.googleusercontent.com/I4DRWoABrUQsaAIQFVSKha98q1u2ilEdrwPJBaf9Mb8KdGZnXzs5DObrwcwUZovgOA=s180-rw" width=120 height=120></a>\
-			<a href="https://sites.google.com/lmtsd.org/lmhslibrary/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
+			<a href="https://sites.google.com/lmtsd.org/lmhs-library/home" target="_blank"><img src="https://image.flaticon.com/icons/svg/29/29302.svg" width=120 height=120></a>\
 			<a href="https://www.ilovepdf.com/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/41GskMcl4-L._SY355_.png" width=120 height=120></a>\
 			<a href="https://www.khanacademy.org/" target="_blank"><img src="https://avatars0.githubusercontent.com/u/15455?s=200&v=4" width=120 height=120></a>\
 			</div>\
