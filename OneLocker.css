@@ -124,8 +124,7 @@ h4{
 }
 .linkmenu{
 	margin-top: -25px;
-	border-top: medium solid rgb(0, 153, 255);
-	border-bottom: medium solid rgb(0, 153, 255);
+	outline: medium solid rgb(0, 153, 255);
 	padding: 0px 5px 5px 5px;
 	margin-bottom: -37px;
 }
