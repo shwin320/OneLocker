@@ -139,7 +139,7 @@ var login_protocol = function(){
 			</div>\
 			<div class="linkmenu" style="text-align: Center;">\
 			<h4 id="agenda">Agenda:</h4>\
-			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
+			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?chrome=false"  width=912 height=463></iframe>\
 			</div>\
 			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
@@ -212,7 +212,7 @@ var login_protocol = function(){
 			</div>\
 			<div class="linkmenu" style="text-align: Center;">\
 			<h4 id="agenda">Agenda:</h4>\
-			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
+			<iframe src="https://docs.google.com/document/d/1C_EIn7SYQXHBECvI45rT4x9c7geET5huVUNC3I2uRaQ/edit?chrome=false"  width=912 height=463></iframe>\
 			</div>\
 			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
@@ -286,7 +286,7 @@ var login_protocol = function(){
 			</div>\
 			<div class="linkmenu" style="text-align: Center;">\
 			<h4 id="agenda">Agenda:</h4>\
-			<iframe src="https://docs.google.com/document/d/1PjDKessoCjBfA7esiMfTCXN5bK3o5JPgeZwNEry8SWc/edit?embedded=true&rm=demo"  width=912 height=463></iframe>\
+			<iframe src="https://docs.google.com/document/d/1PjDKessoCjBfA7esiMfTCXN5bK3o5JPgeZwNEry8SWc/edit?chrome=false"  width=912 height=463></iframe>\
 			</div>\
 			<button onclick="scrollup()" id="scroll" title="Go to top"><img src="https://cdn.jsdelivr.net/gh/shwin320/Ashwin-Website/arrow.png" width=40 height=40></button>\
 			';
