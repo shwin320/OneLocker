@@ -123,9 +123,9 @@ var login_protocol = function(){
 			<div class="linkmenu">\
 			<h4 id="textbooks">Textbooks:</h4>\
 			<div class="links">\
-			<a href="https://etext2.pearson.com/#/easybridge" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/05/90/5a/05905a4a-6d1c-d1a9-134e-65cbaa8ead4f/app-icon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" width="120" height="120" alt="Pearson eText"></a>\
+			<a href="https://etext2.pearson.com/#/easybridge" target="_blank"><img src="https://mysavvastraining.com/assets/img/logos/portal/realize-reader.png" width="120" height="120" alt="Savvas Reader"></a>\
 			<a href="https://passport.emcl.com/" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124 alt="EMC Passport"></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/shwin320/OneLocker/pearson.png" width=120 height=120 style="margin-top: 40px;" alt="Pearson Easybridge"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEMR68Z6LCPEg/company-logo_200_200/0?e=2159024400&v=beta&t=EHibD-PK0HAuw6UHfFgUBhgFxwDkUZ7jh9a-GuxSN0k" width=120 height=120 style="margin-top: 40px;" alt="Savvas Easybridge"></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -196,9 +196,9 @@ var login_protocol = function(){
 			<div class="linkmenu">\
 			<h4 id="textbooks">Textbooks:</h4>\
 			<div class="links">\
-			<a href="https://etext2.pearson.com/#/easybridge" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/05/90/5a/05905a4a-6d1c-d1a9-134e-65cbaa8ead4f/app-icon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" width="120" height="120" alt="Pearson eText"></a>\
+			<a href="https://etext2.pearson.com/#/easybridge" target="_blank"><img src="https://mysavvastraining.com/assets/img/logos/portal/realize-reader.png" width="120" height="120" alt="Savvas Reader"></a>\
 			<a href="https://passport.emcl.com/" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124 alt="EMC Passport"></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/shwin320/OneLocker/pearson.png" width=120 height=120 style="margin-top: 40px;" alt="Pearson Easybridge"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEMR68Z6LCPEg/company-logo_200_200/0?e=2159024400&v=beta&t=EHibD-PK0HAuw6UHfFgUBhgFxwDkUZ7jh9a-GuxSN0k" width=120 height=120 style="margin-top: 40px;" alt="Savvas Easybridge"></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -269,9 +269,9 @@ var login_protocol = function(){
 			<div class="linkmenu">\
 			<h4 id="textbooks">Textbooks:</h4>\
 			<div class="links">\
-			<a href="https://etext2.pearson.com/#/easybridge" target="_blank"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/05/90/5a/05905a4a-6d1c-d1a9-134e-65cbaa8ead4f/app-icon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" width="120" height="120" alt="Pearson eText"></a>\
+			<a href="https://etext2.pearson.com/#/easybridge" target="_blank"><img src="https://mysavvastraining.com/assets/img/logos/portal/realize-reader.png" width="120" height="120" alt="Savvas Reader"></a>\
 			<a href="https://passport.emcl.com/" target="_blank"><img src="http://support.emcschool.com/wp-content/uploads/2017/04/passport-vertical-e1501624753148.png" width=100 height=124 alt="EMC Passport"></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/shwin320/OneLocker/pearson.png" width=120 height=120 style="margin-top: 40px;" alt="Pearson Easybridge"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEMR68Z6LCPEg/company-logo_200_200/0?e=2159024400&v=beta&t=EHibD-PK0HAuw6UHfFgUBhgFxwDkUZ7jh9a-GuxSN0k" width=120 height=120 style="margin-top: 40px;" alt="Savvas Easybridge"></a>\
 			</div>\
 			</div>\
 			<div class="linkmenu">\
@@ -346,7 +346,7 @@ var login_protocol = function(){
 			<a href="https://accounts.google.com/o/saml2/initsso?idpid=C01p8vbki&spid=1073399322464&forceauthn=false" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/MHE_Logo_RGB.png" width=140 height=140 alt="McGraw Hill"></a>\
 			<a href="https://www.hmhco.com/api/external-sso/access?sp=ed&connection=lmtsd-org" target="_blank"><img src="https://p2cdn4static.sharpschool.com/UserFiles/Servers/Server_5439645/Image/Educational%20Ser/History_Social_Studies_Digital_Materials/ED_HMH_Logo.jpg" width=166 height=139.6 alt="Ed Your Friend in Learning"></a>\
 			<a href="https://www.eharcourtschool.com/" target="_blank"><img src="https://billpayhelp.co/wp-content/uploads/2017/05/Harcourt-e-Products-Logo.gif" width=140 height=140 alt="Harcourt"></a>\
-			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/shwin320/OneLocker/pearson.png" width=120 height=120 style="margin-top: 40px;" alt="Pearson"></a>\
+			<a href="https://sso.rumba.pearsoncmg.com/sso/login?service=https://k12integrations.pearsoncmg.com/ca/dashboard.htm&idpmetadata=http://www.lmtsd.org" target="_blank"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQEMR68Z6LCPEg/company-logo_200_200/0?e=2159024400&v=beta&t=EHibD-PK0HAuw6UHfFgUBhgFxwDkUZ7jh9a-GuxSN0k" width=120 height=120 style="margin-top: 40px;" alt="Savvas"></a>\
 			<a href="https://www-k6.thinkcentral.com/sp/access?sp=tc&connection=lmtsd-org" target="_blank"><img src="https://www.incidentiq.com/wp-content/uploads/2018/06/ThinkCentralLogo.jpg" width=140 height=140 alt="Think Central"></a>\
 			</div>\
 			</div>\
