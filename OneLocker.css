@@ -1,0 +1,154 @@
+body{
+	margin: 0px;
+	background-color: #fbfbfb;
+}
+header{
+	border-bottom: 1px solid #5f6368;
+	position: relative;
+	background-color: white;
+}
+header *{
+	display: inline-block;
+}
+h1, h2{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+	margin: 0px;
+}
+h1{
+	font-size: 60px;
+}
+h2{
+	font-size: 27px;
+}
+nav a{
+	color: #5F6368;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	text-decoration: none;
+	margin-left: 4px;
+	margin-right: 4px;
+}
+nav a:hover{
+	color: black;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+}
+footer{
+	border-top: 1px solid #5f6368;
+	position: fixed;
+	bottom: 0px;
+	height: 32px;
+	width: 100%;
+	background-color: white;
+}
+footer *{
+	display: inline-block;
+	color: #5f6368;
+	line-height: 32px;
+}
+#accOpt{
+	background-color: white;
+	position: absolute;
+	bottom: -66px;
+	right: 8px;
+	height: 66px;
+	width: 200px;
+	box-shadow: 1px 1px 2px #1c1c1b;
+}
+#accOpt *{
+	display: block;
+	width: 100%;
+	margin: 0px;
+	line-height: 22px;
+}
+#accOpt p{
+	color: #5F6368;
+}
+#account{
+	cursor: pointer;
+}
+#active{
+	color: black;
+}
+input:focus{
+	border: 0px;
+}
+.login{
+	width: 200px;
+}
+#content{
+	margin-left: 8px;
+	margin-right: 8px;
+	margin-top: 8px;
+	margin-bottom: 40px;
+}
+nav a img{
+	display: block;
+	margin: auto;
+}
+#content div a:hover{
+	opacity: 0.5;
+}
+#content div img{
+	margin-top: 0px;
+}
+#content div{
+	box-shadow: 0px 0px 5px #989595;
+	display: inline-block;
+	background-color: #f1ede4;
+}
+#content div span{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	background-color: inherit;
+}
+#calClose:hover{
+	opacity: 0.5;
+}
+img{
+	font-family: 'Roboto', sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+	body{
+		background-color: black;
+	}
+	header, footer, #content div{
+		background-color: #1c1b1b;
+	}
+	h1{
+		color: white;
+	}
+	#active{
+		color: white;
+	}
+	nav a:hover{
+		color: white;
+	}
+	h2{
+		color: white;
+	}
+	nav a{
+		color: #9e9e9e;
+	}
+	header p, footer p{
+		color: #9e9e9e;
+	}
+	#accOpt p{
+		color: #9e9e9e;
+	}
+	#accOpt{
+		background-color: #1c1b1b;
+		box-shadow: 1px 1px 2px #616161;
+	}
+	input, select{
+		background-color: #1c1b1b;
+		color: white;
+	}
+	p{
+		color: white;
+	}
+}
