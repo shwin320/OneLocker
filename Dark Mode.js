@@ -23,7 +23,7 @@ var darkImg = function(isDark){
 		$("#dDirect").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/staffDirect (dark).svg");
 		$("#dIsle").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/studyIsland (dark).png");
 		$("#dTed").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/ted (dark).png");
-		$("#dDisc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker/discovery%20(dark).png");
+		$("#dDisc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@220ee6e/discovery%20(dark).png");
 	} else{
 		$("#dAcc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/account.svg");
 		$("#dAgen").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/agenda.svg");
@@ -48,6 +48,6 @@ var darkImg = function(isDark){
 		$("#dDirect").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/staffDirect.svg");
 		$("#dIsle").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/studyIsland.png");
 		$("#dTed").attr("src", "https://lh3.googleusercontent.com/w_bxOqm2p2BntxtMt_MQqwxRJhI4MQR0cu-Gn_oKkd9UXGG3FH8S2xRTkx9vtArBcp8l=s180-rw");
-		$("#dDisc").attr("src", "https://yt3.ggpht.com/a/AATXAJwO1yOZThQG-zFTI8e00ETVb4jro--qkFCwy3olqg=s100-c-k-c0xffffffff-no-rj-mo");
+		$("#dDisc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@220ee6e/discovery.png");
 	};
 };
