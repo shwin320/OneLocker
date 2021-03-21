@@ -25,7 +25,7 @@ var darkImg = function(isDark){
 		$("#dTed").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/ted (dark).png");
 		$("#dDisc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@220ee6e/discovery%20(dark).png");
 		$("#dMan").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@ca28682/Mango%20(dark).png");
-		$("#dVec").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@5024bb5/Vectary%20(dark).png");
+		$("#dVec").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@7c74947/Vectary%20(dark).png");
 		$("#dPDF").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@145658a/PDF%20(dark).png");
 	} else{
 		$("#dAcc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/account.svg");
@@ -53,7 +53,7 @@ var darkImg = function(isDark){
 		$("#dTed").attr("src", "https://lh3.googleusercontent.com/w_bxOqm2p2BntxtMt_MQqwxRJhI4MQR0cu-Gn_oKkd9UXGG3FH8S2xRTkx9vtArBcp8l=s180-rw");
 		$("#dDisc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@220ee6e/discovery.png");
 		$("#dMan").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@ca28682/Mango.png");
-		$("#dVec").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@5024bb5/Vectary.png");
+		$("#dVec").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@7c74947/Vectary.png");
 		$("#dPDF").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@145658a/PDF.png");
 	};
 };
