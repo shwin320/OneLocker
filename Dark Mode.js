@@ -31,7 +31,7 @@ var darkImg = function(isDark){
 		$("#dAcc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/account.svg");
 		$("#dAgen").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/agenda.svg");
 		$("#dCal").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/calendar.svg");
-		$("#dCapp").attr("src", "https://pbs.twimg.com/profile_images/1241088771002638337/xuXdZN2A_400x400.png");
+		$("#dCapp").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@7e5c8ae/cappex.png");
 		$("#dClos").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/close.svg");
 		$("#dColl").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/college.svg");
 		$("#dDrop").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@f9a14c5/dropDown.svg");
