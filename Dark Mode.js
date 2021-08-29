@@ -21,7 +21,7 @@ var darkImg = function(isDark){
 		$("#dMan").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@d466db6/Mango%20(dark).png");
 		$("#dVec").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@d466db6/Vectary%20(dark).png");
 		$("#dCam").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@e2fa418/3DCam%20(dark).png");
-		$("#dWork").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@e2fa418/Work%20(dark).png");
+		$("#dWork").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@e2fa418/work%20(dark).png");
 	} else{
 		$("#dAcc").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@d466db6/account.svg");
 		$("#dAgen").attr("src", "https://cdn.jsdelivr.net/gh/shwin320/OneLocker@d466db6/agenda.svg");
